@@ -239,8 +239,8 @@ Indicadores apresentados:
 
 Gerente de Contratos | Supervisor de Caldeiraria | Engenheiro de Software | Engenheiro de Segurança do Trabalho | Pós-Graduando em Engenharia de Dados e Inteligência Artificial
 
-- LinkedIn: SEU_LINK
-- GitHub: SEU_GITHUB
+- LinkedIn: [www.linkedin.com/in/wesleyedu](https://www.linkedin.com/in/wesleyedu/)
+- GitHub: [SEU_GITHUB](https://github.com/wwesleyyedu/pipeline-databricks-vendas)
 
 ---
 
